@@ -15,7 +15,7 @@ namespace Shirts.Controllers
 
         public IActionResult Index()
         {
-
+            //lorem ipsum this is a comment!!
             return View();
         }
 
