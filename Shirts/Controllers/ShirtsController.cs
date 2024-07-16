@@ -12,5 +12,12 @@ namespace Shirts.Controllers
             return View(shirt);
 
         }
+
+        public IActionResult Index()
+        {
+
+            return View();
+        }
+
     }
 }
